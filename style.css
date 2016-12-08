@@ -2,14 +2,14 @@
     font-family: 'Buenard';
     font-style: normal;
     font-weight: 400;
-    src: local('Buenard'), local('Buenard-Regular'), url(http://themes.googleusercontent.com/static/fonts/buenard/v4/duJQeQ_GjW4qq4zzf0vRKw.woff) format('woff');
+    src: local('Buenard'), local('Buenard-Regular'), url(https://themes.googleusercontent.com/static/fonts/buenard/v4/duJQeQ_GjW4qq4zzf0vRKw.woff) format('woff');
 }
 
 @font-face {
     font-family: 'Buenard';
     font-style: normal;
     font-weight: 700;
-    src: local('Buenard Bold'), local('Buenard-Bold'), url(http://themes.googleusercontent.com/static/fonts/buenard/v4/8T0adwz_RAtKrxbccQmEFBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+    src: local('Buenard Bold'), local('Buenard-Bold'), url(https://themes.googleusercontent.com/static/fonts/buenard/v4/8T0adwz_RAtKrxbccQmEFBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
 }
 
 body {
